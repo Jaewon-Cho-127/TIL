@@ -19,3 +19,5 @@
 - 브랜치 전환
   1. `git switch 브랜치명`
   2. `git checkout 브랜치명`
+- 브랜치 생성 및 전환
+  1. `git checkout -b 브랜치명`    
